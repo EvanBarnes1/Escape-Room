@@ -6,7 +6,7 @@
 * Copyright(c) 2019 PLTW to present. All rights reserved
 */
 import java.util.Scanner;
-//testing
+//testing this
 /**
  * Create an escape room game where the player must navigate
  * to the other side of the screen in the fewest steps, while
